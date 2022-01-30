@@ -9,30 +9,29 @@ Phone: 13588282305 \n
 Email: haohaow@zju.edu.cn
 ~~~
 
-== Undergraduate Education (Department of Detection Guidance and Control, CSU)
-. Professional studies: 3-year weighted ranking, ranked 1st in the major on the general test, received many awards including national scholarship and special scholarshi
-. Honors received: Outstanding Student Pioneer" of Central South University (0.1 percent) , Study Pioneer, Central South Darling (0.6 percent), Outstanding Graduate of Hunan Province, etc., reported by the official school media;
-. Foreign language ability: freshman year in the bilingual international class; IELTS score of 6.5, including reading 8, writing won the first prize in the preliminary round of the Foreign Studies Cup;
-. Summary of achievements: During the undergraduate period, I won more than 30 awards and honors at all levels, declared 3 invention patents, and published one paper;
+== Undergraduate Education
+. Professional studies: I obtained my undergraduate degree in Detection and Control at Central South University (ranking 1st in my department).
+. Honors received: I was honored as "Outstanding Student Pioneer" of Central South University (0.1 percent) , Study Pioneer, Outstanding Graduate of Hunan Province, etc., and got reported by the official school media.
+. English ability: I received education in a bilingual class for one year; got IELTS score of 6.5 (reading 8), won the first prize in the writting track of the Foreign Studies Cup.
+. Summary of achievements: During the undergraduate period, I won more than 30 awards and honors at all levels and declared 3 invention patents.
 
 == Graduate Education (Department of Control, Zhejiang University)
-. I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University; 
-. I served as a member of class sports and culture, minister of the Faculty Student Union, and minister of the competition section of the Artificial Intelligence Association; 
-. I joined the "Smart Rice and Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award, and featured in the news broadcast),directed machine learning demonstration.
+. I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University.
+. I served as a minister of the Faculty Student Union, and minister of the competition department of the Artificial Intelligence Association.
+. I joined the "Smart Rice-Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award) and directed machine learning demonstration.
 
 == Primary Skills
-. Python machine learning and deep learning;
+. Python machine learning and deep learning.
 . Convex optimization, heuristic optimization, bayesian optimization.
 . Gaussian process, probablisitic graphic models and graph neural networks.
 . MATLAB digital signal processing, image processing, control system simulation, navigation, guidance, detection, aircraft principles and flight control fundamentals.
-. Industrial recommenders, generative adversial training, neural language processing and time series analysis.
+. Industrial recommenders, causal inference, generative adversial training, neural language processing and time series analysis.
 
 == Ant Group - Intelligent Engine Division
 === Recommender system causal bias elimination
-. Independently completed a full-stack industrial recommendation project, including pair requirements, data washing, feature engineering, multi-task model design, causal bias elimination algorithm design, deployment flow cutting, and metrics optimization
-. ESMM is a classic multi-task recommendation model in the industry. We demonstrate that the CVR estimation of ESMM suffers from an eigenbias problem, and CTCVR estimation also introduces an incorrect conditional independent prior.
-. To address this problem, ESCM is proposed with the intention of using causal debiasing techniques to regularize the ESMM model and demonstrate that it can significantly mitigate the bias and conditional independence problems.
-. ESCM was deployed to Alipay insurance product page and insurance strict selection shelf page, and took up the task of booth for insurance business during the five blessings, serving 6 million users in 10 days, improving business billing by 4 percent and actual premium by 8 percent; declaring one patent, one paper and one article on Alibaba Technology Association.
+. I completed a full-stack industrial recommender for Ant Insurance business, including requirements discussing, data washing, feature engineering, algorithm designing, online deployment and performance tuning.
+. I demonstrate that ESMM, a classic multi-task recommendation model, suffers from inherent bias for CVR estimation. ESCM was therefore proposed, which regularizes ESMM with counterfactual risks.
+. Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper and an article on the Alibaba Technology Association.
 
 == Huawei - Noah's Ark Lab
 . I am exploring the intersection of causal inference and domain adaptation. Specifically, I am interested in theoretical and experimental exploration of causal inference based on optimal transport.
@@ -40,21 +39,21 @@ Email: haohaow@zju.edu.cn
 
 == Projects
 === Atmospheric radiation monitoring and nuclear accident early warning
-. Project content: Using massive data from 38 measurement stations nationwide, we conducted research on key nuclide assessment, predictive maintenance of nuclear accidents, and sample enhancement of key nuclear accidents. The following results have been achieved.
-. Data-driven critical nuclide real-time forecasting system: combining methods of multi-head attention, spatio-temporal decoupled attention, hidden cycle modeling, and spatio-temporal graph collaborative mining, with r2 reaching above 0.95.
-. Mass-driven semi-supervised stacked encoder: using information theory and probabilistic graphical models, deriving loss functions in a variational framework and SOTA, highly evaluated by AE and reviewers.
-. One work output paper (IEEE Transactions on Industrial Informatics in submission); 3 conference papers published, oral presentation at China Process Control Conference, related results recognized by the leadership of SEPA Radiation Environment Monitoring Technology Center, presented and reported at Tsinghua, Chinese Academy of Sciences, 401 Institute, Nuclear Safety Center.
+. Project content: We explored on the process monitoring and predictive maintenance of nuclear accidents using massive data from 38 measurement stations.
+. Real-time dose-rate forecasting: We implemented forecasting methods of multi-head attention, spatio-temporal attention, hidden cycle modeling, and spatio-temporal graph networks, acquiring 0.95+ r2.
+. Semi-supervised Stacked Auto-encoder for Residual Information Mining: We derived a residual architecture through a variational approach, which maximized the joint-likelihood of features and labels directly.
+. Results: We released 1 journal paper (under review), 3 conference papers, 1 oral presentation at China Process Control Conference.
 
 === XPBoost
-. Motivation of research: vc-compromise limits the upper bound of generalization for deep learning; SGD suffers from complex covariance, surrogate gap, local optimality, etc.
-. Academic value: new problem of post-optimization of neural networks is proposed, and intelligent optimization and cross-dimensional reduction are introduced to optimize training error and generalization gap simultaneously, with good theoretical support and experimental effects; meaningful attempts are made for the application of intelligent optimization and statistical analysis in deep learning.
-. Project results: classical time series baseline rise point with in the range 0.5-3 percent, support almost all network structures, output one work paper in the pitch.
+. Motivation: VC-dimension limits the upper bound of generalization for deep learning; SGD suffers from complex covariance.
+. Contribution: We proposed a new problem of neural network post-optimization. We devised XPBoost, which solved this problem through intelligent optimization and cross-dimensional reduction technology.
+. Results: We improved the baselines by 0.5-3 percent, release 1 paper (under review).
 
-=== Research on decoupling analysis of micro-Doppler signals for complex dynamic multi-targets
-. Target dynamic model: based on target microdynamic characteristics, motion characteristics, electromagnetic parameters, the establishment of spatial complex dynamic multi-target motion model under a variety of radar regimes.
-. Decoupling separation algorithm: decoupling of each motion mode based on variational modal decomposition; separation of different target echoes based on heuristic methods.
-. Modal classification algorithm: deep learning to achieve extraction of micro-motion features and classification of targets; inter-channel attention mechanism to improve the generalization performance of the model for low signal-to-noise ratio images and achieve SOTA level for micro-motion image recognition; combination of mechanism and data decoding to achieve high-precision identification of model motion parameters.
-. Project achievements: declared one national invention patent; wrote one thesis; excellent thesis of Central South University; received 20,000 RMB award from supervisor.
+=== Decoupling and Recognition of micro-Doppler signals for complex dynamic multi-targets
+. Target dynamic model: I established the target microdynamic model supporting 3 motion characteristics, 8 electromagnetic parameters and 3 radar modes.
+. Decoupling algorithm: We devised signal decoupling algorithms based on variational modal decomposition.
+. Recognition algorithm: We devised inter-channel attention modules to adapt model to images with low SNR, and beat the best model in micro-motion mode recognition.
+. Results: We released 2 patent, 1 thesis, and got the excellent thesis award of Central South University.
 
 == Patent achievements
 . A lidar target intelligent detector for complex underwater dynamic targets:CN113281776A
@@ -66,7 +65,7 @@ Email: haohaow@zju.edu.cn
 . Haozhe Li, Hao Wang, Shunping Zhao. \" Research on the key nuclide prediction method based on multi-channel dilated convolution BiLSTM model with attention mechanism\" , Chinese Process Control Conference, 2021
 . Hao Wang, Haozhe Li. \" Semi-supervised Stacked Auto-encoder for Residual Information Mining\", Chinese Process Control Conference, 2021.
 . Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, Hao Wang, \" A Novel Momentum-GRU Model for Prediction of Time Series Data\", Chinese Process Control Conference, 2021.
-. Hao Wang, Taiwei Chang, \"ESCM<sup>2</sup>:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\".
+. Hao Wang, Taiwei Chang, \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\".
 . Hao Wang, Zhiyu Wang, \"Automatic Radiation Monitoring for Nuclear Energy Plants with Spatial-Temporal Adaptive Message Passing Neural Network\".
 . Hao Wang, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\".
 . Yuxin Huang, Hao Wang, \"Gradient Normalization for Multitask Soft-sensor\".
@@ -75,26 +74,26 @@ Email: haohaow@zju.edu.cn
 == Honors and Awards
 . National Scholarship, 2018
 . BYD Scholarship, 2019
-. First Class Scholarship of Central South University, 2018
-. Special Scholarship of Central South University, 2019
-. First Class Scholarship of Zhejiang University, 2020
-. First Class Scholarship of Zhejiang University, 2021
+. The First Prize Scholarship of Central South University, 2018
+. The Special Prize Scholarship of Central South University, 2019
+. The First Prize Scholarship of Zhejiang University, 2020
+. The First Prize Scholarship of Zhejiang University, 2021
 . Outstanding Student of CSU Academic Yea, 2018 
 . Outstanding Student of CSU Academic Year, 2019
 . Outstanding Student Pioneer of CSU in the Academic Year, 2019
-. Study Pioneerof CSU, 2018
+. Model Student of Academic Records of Central South University, 2018
 . Outstanding Student of CSU of Mechanical and Electrical Engineering Institution, 2017 
 . Outstanding Graduate Student of Zhejiang University, 2021
-. Outstanding Graduate Student Pioneer of Zhejiang University, 2021
+. Merit Graduate Student of Zhejiang University, 2021
 . Outstanding Graduate of Hunan Province, 2020
-. Outstanding Graduate of CSU, 2020
-. First Prize of Mathorcup Mathematical Modeling Competition, 2019
-. Third Prize of Huawei Cup Mathematical Modeling, 2021
-. Second Prize of Mathorcup Mathematical Modeling Competition, 2018
-. Third Prize of Huawei Cup Hunan Provincial Mathematical Competition, 2018
-. First Prize of CPCC Physics Academic Competition, 2017
-. First Prize of English Writing Competition of Foreign Research Institute Cup, 2018
-. Third Prize of Internet+ Preliminary Competitio, 2019
+. Outstanding Graduate of Central South University, 2020
+. The First Prize of Mathorcup Mathematical Modeling Competition, 2019
+. The Third Prize of Huawei Cup Mathematical Modeling, 2021
+. The Second Prize of Mathorcup Mathematical Modeling Competition, 2018
+. The Third Prize of Huawei Cup Hunan Provincial Mathematical Competition, 2018
+. The First Prize of CPCC Physics Academic Competition, 2017
+. The First Prize of English Writing Competition of Foreign Research Institute Cup, 2018
+. The Third Prize of Internet+ Preliminary Competitio, 2019
 . The Third Prize of American College Student Mathematical Modeling Competition, 2019
 . The Third Prize of American College Student Mathematical Modeling Competition, 2018
 . Outstanding Paper Award of Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
@@ -103,13 +102,11 @@ Email: haohaow@zju.edu.cn
 . Outstanding Project of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
 . Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
 . Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
-. Eighth Place in the Exhibition Dance of the University Sports Dance Championship, 2019
-. Champion of Rumba College Group of Hunan Provincial Sports Dance Competition, 2019
-. First Prize of Slow Three Professional Group of Hunan Provincial Sports Dance Competition, 2019
-. Hunan Province Sports Dance Competition Cowboy Dance Second Prize, 2019
-. Hunan Province Latin Dance Dance Teacher Qualification, 2018
+. The Eighth Place in the Exhibition Dance of the University Sports Dance Championship, 2019
+. The Champion of Rumba College Group of Hunan Provincial Sports Competition, 2019
+. The First Prize of Slow Three Dance in Hunan Provincial Sports Competition, 2019
+. The Second Prize of Cowboy Dance in Hunan Province Sports Competition, 2019
+. Latin Dance Dance Teacher Qualification, 2018
 
-[publications.html Full list of publications].
-\n
 [cv.pdf A brief cv].
 
