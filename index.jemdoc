@@ -10,26 +10,26 @@ Email: haohaow@zju.edu.cn
 ~~~
 
 == Undergraduate Education
-. Professional studies: I obtained my undergraduate degree in Detection and Control at Central South University (ranking 1st in my department).
-. Honors received: I was honored as "Outstanding Student Pioneer" of Central South University (0.1 percent) , Study Pioneer, Outstanding Graduate of Hunan Province, etc., and got reported by the official school media.
-. English ability: I received education in a bilingual class for one year; got IELTS score of 6.5 (reading 8), won the first prize in the writting track of the Foreign Studies Cup.
+. Background: I obtained my undergraduate degree of Detection and Control at Central South University, ranking 1st in my department.
+. Honors: I was honored as "Outstanding Student Pioneer" of Central South University (0.1 percent) , Study Pioneer, Outstanding Graduate of Hunan Province, etc., and got reported by the official accounts.
+. Language: I received bilingual education for one year; got IELTS score of 6.5 (reading 8), won the first prize in the writting track of Foreign Studies Cup.
 
 == Graduate Education (Department of Control, Zhejiang University)
 . I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University.
-. I served as a minister of the Faculty Student Union, and minister of the competition department of the Artificial Intelligence Association.
+. I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . I joined the "Smart Rice-Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award) and directed machine learning demonstration.
 
 == Primary Skills
-. Python machine learning and deep learning.
-. Convex optimization, heuristic optimization, bayesian optimization.
-. Gaussian process, probablisitic graphic models and graph neural networks.
-. MATLAB digital signal processing, image processing, control system simulation, navigation, guidance, detection, aircraft principles and flight control fundamentals.
-. Industrial recommenders, causal inference, generative adversial training, neural language processing and time series analysis.
+. Programming: Python machine learning and deep learning.
+. Optimization: Convex optimization, heuristic optimization, bayesian optimization.
+. Modelling: Statistics, Gaussian process, probablisitic graphic models, graph neural networks, causal inference, GANs.
+. Plan and Control: digital signal processing, image processing, control system simulation, navigation, guidance, detection, aircraft control fundamentals.
+. Application: Industrial recommenders, user-growth algorithms, time series forecast.
 
 == Ant Group - Intelligent Engine Division
 === Recommender system causal bias elimination
-. I completed a full-stack industrial recommender for Ant Insurance business, including requirements discussing, data washing, feature engineering, algorithm designing, online deployment and performance tuning.
-. I demonstrate that ESMM, a classic multi-task recommendation model, suffers from inherent bias for CVR estimation. ESCM was therefore proposed, which regularizes ESMM with counterfactual risks.
+. I completed a full-stack industrial recommender for Ant Insurance business, including requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
+. I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
 . Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper and an article on the Alibaba Technology Association.
 
 == Huawei - Noah's Ark Lab
@@ -38,18 +38,18 @@ Email: haohaow@zju.edu.cn
 
 == Projects
 === Atmospheric radiation monitoring and nuclear accident early warning
-. Project content: We explored on the process monitoring and predictive maintenance of nuclear accidents using massive data from 38 measurement stations.
-. Real-time dose-rate forecasting: We implemented forecasting methods of multi-head attention, spatio-temporal attention, hidden cycle modeling, and spatio-temporal graph networks, acquiring 0.95+ r2.
-. Semi-supervised Stacked Auto-encoder for Residual Information Mining: We derived a residual architecture through a variational approach, which maximized the joint-likelihood of features and labels directly.
+. Background: We explored on the process monitoring and predictive maintenance of nuclear accidents using massive data from 38 measurement stations.
+. Dose-rate forecasting: We implemented forecasting methods of multi-head attention, spatio-temporal attention, hidden cycle modeling, and spatio-temporal graph networks, acquiring 0.95+ r2.
+. Auto-encoder for Residual Information Mining: We derived a residual architecture through a variational approach, which maximized the joint-likelihood of features and labels directly.
 . Results: We released 1 journal paper (under review), 3 conference papers, 1 oral presentation at China Process Control Conference.
 
 === XPBoost
-. Motivation: VC-dimension limits the upper bound of generalization for deep learning; SGD suffers from complex covariance.
+. Background: VC-dimension limits the upper bound of generalization for deep learning; SGD suffers from complex covariance.
 . Contribution: We proposed a new problem of neural network post-optimization. We devised XPBoost, which solved this problem through intelligent optimization and cross-dimensional reduction technology.
-. Results: We improved the baselines by 0.5-3 percent, release 1 paper (under review).
+. Results: We improved the baselines by 0.5-3 percent, released 1 paper (under review).
 
 === Decoupling and Recognition of micro-Doppler signals for complex dynamic multi-targets
-. Target dynamic model: I established the target microdynamic model supporting 3 motion characteristics, 8 electromagnetic parameters and 3 radar modes.
+. Target dynamic model: We established the target microdynamic model supporting 3 motion characteristics, 8 electromagnetic parameters and 3 radar modes.
 . Decoupling algorithm: We devised signal decoupling algorithms based on variational modal decomposition.
 . Recognition algorithm: We devised inter-channel attention modules to adapt model to images with low SNR, and beat the best model in micro-motion mode recognition.
 . Results: We released 2 patent, 1 thesis, and got the excellent thesis award of Central South University.
