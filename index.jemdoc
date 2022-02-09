@@ -28,7 +28,7 @@ Email: haohaow@zju.edu.cn
 
 == Ant Group - Intelligent Engine Division
 === Recommender system causal bias elimination
-. I completed a full-stack industrial recommender for Ant Insurance business, including requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
+. I completed a full-stack industrial recommender for Ant Insurance business: requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
 . I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
 . Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper and an article on the Alibaba Technology Association.
 
@@ -50,7 +50,7 @@ Email: haohaow@zju.edu.cn
 
 === Decoupling and Recognition of micro-Doppler signals for complex dynamic multi-targets
 . Target dynamic model: We established the target microdynamic model supporting 3 motion characteristics, 8 electromagnetic parameters and 3 radar modes.
-. Decoupling algorithm: We devised signal decoupling algorithms based on variational modal decomposition.
+. Decoupling algorithm: We devised algorithms based on variational modal decomposition to decouple the echo signals from different targets.
 . Recognition algorithm: We devised inter-channel attention modules to adapt model to images with low SNR, and beat the best model in micro-motion mode recognition.
 . Results: We released 2 patent, 1 thesis, and got the excellent thesis award of Central South University.
 
@@ -77,11 +77,11 @@ Email: haohaow@zju.edu.cn
 . The Special Prize Scholarship of Central South University, 2019
 . The First Prize Scholarship of Zhejiang University, 2020
 . The First Prize Scholarship of Zhejiang University, 2021
-. Outstanding Student of CSU Academic Yea, 2018 
-. Outstanding Student of CSU Academic Year, 2019
-. Outstanding Student Pioneer of CSU in the Academic Year, 2019
+. Outstanding Student of Central South University, 2018 
+. Outstanding Student of Central South University, 2019
+. Outstanding Student Pioneer of Central South University, 2019
 . Model Student of Academic Records of Central South University, 2018
-. Outstanding Student of CSU of Mechanical and Electrical Engineering Institution, 2017 
+. Outstanding Student of Central South University, 2017
 . Outstanding Graduate Student of Zhejiang University, 2021
 . Merit Graduate Student of Zhejiang University, 2021
 . Outstanding Graduate of Hunan Province, 2020
@@ -101,11 +101,11 @@ Email: haohaow@zju.edu.cn
 . Outstanding Project of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
 . Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
 . Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
-. The Eighth Place in the Exhibition Dance of the University Sports Dance Championship, 2019
-. The Champion of Rumba College Group of Hunan Provincial Sports Competition, 2019
-. The First Prize of Slow Three Dance in Hunan Provincial Sports Competition, 2019
-. The Second Prize of Cowboy Dance in Hunan Province Sports Competition, 2019
-. Latin Dance Dance Teacher Qualification, 2018
+. The Eighth Place of the Exhibition Dance in the University Dance Championship, 2019
+. The Champion of Rumba in College Group in Hunan Provincial Sports Competition, 2019
+. The First Prize of Waltz in Hunan Provincial Sports Competition, 2019
+. The Second Prize of Cowboy in Hunan Province Sports Competition, 2019
+. Qualification of Latin Dance Teacher, 2018
 
 [cv.pdf A brief cv].
 
