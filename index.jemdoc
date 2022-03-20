@@ -18,6 +18,7 @@ Email: haohaow@zju.edu.cn
 . I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University.
 . I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . I joined the "Smart Rice-Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award) and directed machine learning demonstration.
+. I served as a reviewer for top-tier conferences in machine learning, including ICML, AAAI and SIGIR.
 
 == Primary Skills
 . Programming: Python machine learning and deep learning.
@@ -54,16 +55,19 @@ Email: haohaow@zju.edu.cn
 . Recognition algorithm: We devised inter-channel attention modules to adapt model to images with low SNR, and beat the best model in micro-motion mode recognition.
 . Results: We released 2 patent, 1 thesis, and got the excellent thesis award of Central South University.
 
-== Patent achievements
-. A lidar target intelligent detector for complex underwater dynamic targets:CN113281776A
-. A micro-Doppler feature extraction method and system for complex motion targets:CN112130142A
-. A method and system for intelligent processing of micro motion signals for complex dynamic multi-targets:CN112184849A
-. A deep learning-based intelligent diagnosis and treatment system and method for breath sounds:CN111789629A
+== Patents
+. A lidar target intelligent detector for complex underwater dynamic targets: [https://www.baiten.cn/patent/detail/5a8dc4941305110d3438299d208352cfad02ba43f5c4b531?sc=&fq=&type=&sort=&sortField=&q=CN113281776A&rows=10 Access]
+. A micro-Doppler feature extraction method and system for complex motion targets: [https://www.baiten.cn/patent/detail/11ad23369ea889ac80b476ae0f666b7f531cfd840c264a68?sc=&fq=&type=&sort=&sortField=&q=CN112130142A&rows=10 Access]
+. An intelligent processing system of micro motion signals for complex dynamic multi-targets: [https://www.baiten.cn/patent/detail/11ad23369ea889acd4d0e006c43849afbb2e311e2b85bd69?sc=&fq=&type=&sort=&sortField=&q=CN112184849A&rows=10 Access]
+. A deep learning-based intelligent diagnosis and treatment system and method for breath sounds: [https://www.baiten.cn/patent/detail/57658b842a4e8189fa63090ddf9027e7227ee974779bde88?sc=&fq=&type=&sort=&sortField=&q=CN111789629A&rows=10 Access]
+. A micro-Doppler feature extraction method and system for complex motion targets [https://www.baiten.cn/patent/detail/11ad23369ea889ac80b476ae0f666b7f531cfd840c264a68?sc=&fq=&type=&sort=&sortField=&q=%28in%3A%28%E7%8E%8B%E6%B5%A9%29%29%2BAND%2Bpa%3A%28%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%29&rows=20 Access]
+. A user-item recommendation system based on entire space modeling and causal correction
+. An incremental time-series forecasting system based on monotonic neural differential equations
 
-== Recent Publications 
-. Haozhe Li, Hao Wang, \" Research on the key nuclide prediction method based on multi-channel dilated convolution BiLSTM model with attention mechanism\" , Chinese Process Control Conference, 2021.
-. Hao Wang, Haozhe Li, \" Semi-supervised Stacked Auto-encoder for Residual Information Mining\", Chinese Process Control Conference, 2021.
-. Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, Hao Wang, \" A Novel Momentum-GRU Model for Prediction of Time Series Data\", Chinese Process Control Conference, 2021.
+== Recent Papers 
+. Haozhe Li, Hao Wang, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001098&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RlG3rPGnWDmMDtOzMAuyb6kGChiAKfxOfxOlWuH9u5KGQ4i_JeA6bKtHIjJnKpp4w= \" Research on the key nuclide prediction method based on multi-channel dilated convolution BiLSTM model with attention mechanism\" , Chinese Process Control Conference, 2021.]
+. Hao Wang, Haozhe Li, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001099&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6TIpLinVhrcu4IZnLFlzkGaJfhpBOmqIhtlxQATOrZe5Ett-_RNQxzBK7w6UgZ4y5A= \" Semi-supervised Stacked Auto-encoder for Residual Information Mining\", Chinese Process Control Conference, 2021.]
+. Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, Hao Wang, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001097&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RSEmSQCY-daaRkow2T-ClAloaE-34GXuEe6uWzxrlzErId_DmovSfVO9NwLYuUqLw= \" A Novel Momentum-GRU Model for Prediction of Time Series Data\", Chinese Process Control Conference, 2021.]
 . Hao Wang, Taiwei Chang, \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\".
 . Hao Wang, Zhiyu Wang, \"Automatic Radiation Monitoring for Nuclear Energy Plants with Spatial-Temporal Adaptive Message Passing Neural Network\".
 . Hao Wang, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\".
