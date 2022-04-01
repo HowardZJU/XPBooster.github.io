@@ -18,7 +18,7 @@ Email: haohaow@zju.edu.cn
 . I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University.
 . I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . I joined the "Smart Rice-Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award) and directed machine learning demonstration.
-. I served as a reviewer for top-tier conferences in machine learning, including ICML, AAAI and SIGIR.
+. I served as a reviewer for top-tier conferences in machine learning, including ICML, NeurIPS and AAAI.
 
 == Primary Skills
 . Programming: Python machine learning and deep learning.
@@ -31,7 +31,7 @@ Email: haohaow@zju.edu.cn
 === Recommender system causal bias elimination
 . I completed a full-stack industrial recommender for Ant Insurance business: requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
 . I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
-. Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper and an article on the Alibaba Technology Association.
+. Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper (SIGIR) and an article on the Alibaba Technology Association.
 
 == Huawei - Noah's Ark Lab
 . I am exploring the intersection of causal inference and domain adaptation. Specifically, I am interested in theoretical and experimental exploration of causal inference based on optimal transport.
@@ -68,10 +68,10 @@ Email: haohaow@zju.edu.cn
 . Haozhe Li, Hao Wang, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001098&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RlG3rPGnWDmMDtOzMAuyb6kGChiAKfxOfxOlWuH9u5KGQ4i_JeA6bKtHIjJnKpp4w= \" Research on the key nuclide prediction method based on multi-channel dilated convolution BiLSTM model with attention mechanism\" , Chinese Process Control Conference, 2021.]
 . Hao Wang, Haozhe Li, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001099&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6TIpLinVhrcu4IZnLFlzkGaJfhpBOmqIhtlxQATOrZe5Ett-_RNQxzBK7w6UgZ4y5A= \" Semi-supervised Stacked Auto-encoder for Residual Information Mining\", Chinese Process Control Conference, 2021.]
 . Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, Hao Wang, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001097&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RSEmSQCY-daaRkow2T-ClAloaE-34GXuEe6uWzxrlzErId_DmovSfVO9NwLYuUqLw= \" A Novel Momentum-GRU Model for Prediction of Time Series Data\", Chinese Process Control Conference, 2021.]
-. Hao Wang, Taiwei Chang, \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\".
+. Hao Wang, Taiwei Chang, \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\", SIGIR, 2022.
 . Hao Wang, Zhiyu Wang, \"Automatic Radiation Monitoring for Nuclear Energy Plants with Spatial-Temporal Adaptive Message Passing Neural Network\".
 . Hao Wang, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\".
-. Yuxin Huang, Hao Wang, \"Gradient Normalization for Multitask Soft-sensor\".(In process)
+. Yuxin Huang, Hao Wang, \"Gradient Normalization for Multitask Soft-sensor\".
 . Zhichao Chen, Jianmin Huang, Hao Wang, \"Deep Monotonous Neural Dynamics\".(In process)
 
 == Honors and Awards
