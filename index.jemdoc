@@ -28,14 +28,13 @@ Email: haohaow@zju.edu.cn
 . Application: Industrial recommenders, user-growth algorithms, time series forecast.
 
 == Ant Group - Intelligent Engine Division
-=== Recommender system causal bias elimination
 . I completed a full-stack industrial recommender for Ant Insurance business: requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
 . I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
-. Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper (SIGIR) and an article on the Alibaba Technology Association.
+. Results: The effectiveness of ESCM was demonstrated theoretically. ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. We released a patent, a research paper, and a special talk on SIGIR.
 
 == Huawei - Noah's Ark Lab
-. I am exploring the intersection of causal inference and domain adaptation. Specifically, I am interested in theoretical and experimental exploration of causal inference based on optimal transport.
-. I am also interested in the multi-task multi-objective recommenders. Specifically, I am interested in automatically fine-tuning target weights during training via a PID controller.
+. I completed a package for causal inference model: data preparation, feature engineering, algorithm extension, and performance evaluation.
+. Results: We proposed the Entire Space CounterFatual Regression based on a generalized optimal transport, to mitigate the effects of mini-batch sampling and unobserved confounders. We have submitted our manuscript to NeurIPS 2022.
 
 == Projects
 === Atmospheric radiation monitoring and nuclear accident early warning
@@ -70,9 +69,11 @@ Email: haohaow@zju.edu.cn
 . Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, Hao Wang, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001097&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RSEmSQCY-daaRkow2T-ClAloaE-34GXuEe6uWzxrlzErId_DmovSfVO9NwLYuUqLw= \" A Novel Momentum-GRU Model for Prediction of Time Series Data\", Chinese Process Control Conference, 2021.]
 . Hao Wang, Taiwei Chang, \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\", SIGIR, 2022.
 . Hao Wang, Zhiyu Wang, \"Automatic Radiation Monitoring for Nuclear Energy Plants with Spatial-Temporal Adaptive Message Passing Neural Network\".
-. Hao Wang, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\".
-. Yuxin Huang, Hao Wang, \"Gradient Normalization for Multitask Soft-sensor\".
-. Zhichao Chen, Jianmin Huang, Hao Wang, \"Deep Monotonous Neural Dynamics\".(In process)
+. Hao Wang, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\", 2022. 
+. Hao Wang, Quanyu Dai, \"Sinkhorn Discrepancy for Counterfactual Generalization\", 2022.
+. Haozhe Li, Wenhai Wang, Zhaoran Liu, Yunlong Niu, Hao Wang, \"A Novel Locality-Sensitive Hashing Relational Graph Matching Network for Semantic Textual Similarity Measurement\", Expert Systems With Applications, 2022.
+. Yuxin Huang, Hao Wang, \"Gradient Normalization for Multitask Soft-sensor\", 2022.
+. Zhichao Chen, Jianmin Huang, Hao Wang, \"Deep Monotonous Neural Dynamics\", 2022.
 
 == Honors and Awards
 . National Scholarship, 2018
