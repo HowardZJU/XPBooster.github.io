@@ -28,15 +28,19 @@ Email: haohaow@zju.edu.cn
 . Application: Industrial recommenders, user-growth algorithms, time series forecast.
 
 == Microsoft Research Asia - Social Computing Group
+. I am working with [https://scholar.google.com/citations?user=tSq7dIkAAAAJ&hl=zh-CN&oi=ao Jialia], supervised by [https://scholar.google.com/citations?user=5EQfAFIAAAAJ&hl=zh-CN&oi=ao Xing Xie].
 . I am exploring causal inference and optimal transport technologies to eliminate the bias in recommenders.
+. I am also interested in the super-large kernel convolutional network and its applications with sequential recommendation.
 
-== Ant Group - Intelligent Engine Division
+== Ant Group - User-growth Algorithm Group
+. Here I worked with Taiwei-Chang and [https://scholar.google.com/citations?user=HIuCuFkAAAAJ&hl=zh-CN&oi=ao Tianqiao Liu], supervised by Jianmin Huang and [https://scholar.google.com/citations?user=3J4zb7gAAAAJ&hl=zh-CN&oi=ao Wei Chu].
 . I completed a full-stack industrial recommender for Ant Insurance business: requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
 . I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
 . Academic results: The effectiveness of ESCM was demonstrated theoretically. We released a patent, a research paper, and a special talk on SIGIR.
 . Industrial application: ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. 
 
 == Huawei - Noah's Ark Lab
+. Here I worked with [https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao Quanyu Dai] and [https://www.jiajunfan.com/ Jiajun Fan], supervised by [https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN&oi=ao Ruiming Tang].
 . I completed a package for causal inference model: data preparation, feature engineering, algorithm extension, and performance evaluation.
 . I demonstrated that existing representation learning based ITE estimators suffer from the effects of mini-batch sampling and unobserved confonders. I proposed ESCFR based on a generalized Sinkhorn divergence to mitigate these issues.
 . Academic results: We have submitted the manuscript of ESCFR to NeurIPS 2022.
